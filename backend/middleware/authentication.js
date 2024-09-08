@@ -1,0 +1,1 @@
+const CustomError = require('../errors');
